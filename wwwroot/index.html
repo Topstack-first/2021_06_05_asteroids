@@ -46,8 +46,10 @@
 
         function showTable() {
             //TODO
-            document.location.href = "scoretable.html"
+            //document.getElementById("scoretable").style.display = "none"; //hides the frame
+            document.getElementById("scoredata").style.display = "block"; //shows the frame
         }
+        //document.getElementById("scoredata").style.display = "none";
     </script>
 </head>
 <body>
@@ -55,9 +57,12 @@
         <h2>Asteroids  <span style="font-size:12px;" id="playerName"></span></h2>
     </div>
     <div id="scoretable">
-        <button onclick="showTable()">Score Table</button><br>
+
         <button onclick="updateName()">Update Name</button><br />
-        <button onclick="deletePlayer()">Delete Account</button>
+        <button onclick="deletePlayer()">Delete Account</button><br />
+        <button onclick="showTable()">Score Table</button><br>
+        <iframe id="scoredata" src="scoretable.html" style="height: 500px; border-width: 0px;display:none;">
+        </iframe>
     </div>
     <div id="stage">
 

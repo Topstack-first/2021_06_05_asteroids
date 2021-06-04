@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\fixed\\Asteroids\\Asteroids.csproj": {}
+    "e:\\projects\\fixed\\Asteroids\\Asteroids.csproj": {}
   },
   "projects": {
-    "E:\\projects\\fixed\\Asteroids\\Asteroids.csproj": {
+    "e:\\projects\\fixed\\Asteroids\\Asteroids.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
+        "projectUniqueName": "e:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
         "projectName": "Asteroids",
-        "projectPath": "E:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
+        "projectPath": "e:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
         "packagesPath": "C:\\Users\\TryTry\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\fixed\\Asteroids\\obj\\",
+        "outputPath": "e:\\projects\\fixed\\Asteroids\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TryTry\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rQAYRrtQe462KZbdYx9yvuN4zg+y4PblrawWI4kPkkQM7U5ovkgdplFSGzOXy7IXFh+r3oiotpejrQzaKBxXkA==",
+  "dgSpecHash": "QIakmUb4MIJvtuy4sWV0tzL3Ltx9/+sFmsJvVWnzCJmOX5APWHqoxT5KMRw1CpTPgSHrWq+Q6YfyKaCP7SJcDw==",
   "success": true,
-  "projectFilePath": "E:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
+  "projectFilePath": "e:\\projects\\fixed\\Asteroids\\Asteroids.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TryTry\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\TryTry\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
