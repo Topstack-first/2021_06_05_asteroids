@@ -11,6 +11,8 @@ let game_over = false;
 let time = 0;
 let time2 = 640;
 const SAVE_KEY_SCORE = "highscore";
+
+
 let playerId = 0;
 let playerName = "";
 
